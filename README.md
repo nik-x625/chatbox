@@ -1,6 +1,8 @@
-# chatbox
+# Chatbox / Chatbot: Interactive UI with HTMX, Bootstrap & Flask Integration
 
-A simple, interactive chatbot interface built with HTML, HTMX, and Bootstrap. This frontend is designed to be easily integrated with a Flask backend, providing a responsive and modern user experience.
+A simple, interactive chatbot/chatbox interface built with HTML, HTMX, and Bootstrap. This frontend is designed to be easily integrated with a Flask backend, providing a responsive and modern user experience for your chat application.
+
+![image](https://github.com/user-attachments/assets/9b458325-57b6-4ecd-8c5b-176a4baeb224)
 
 ![image](https://github.com/user-attachments/assets/9b458325-57b6-4ecd-8c5b-176a4baeb224)
 
@@ -8,7 +10,7 @@ A simple, interactive chatbot interface built with HTML, HTMX, and Bootstrap. Th
 
 ## Features
 
-*   **Interactive Chat Interface:** Clean and user-friendly chat UI.
+*   **Interactive Chatbot/Chatbox Interface:** Clean and user-friendly chat UI.
 *   **Real-time Updates (with HTMX):** Leverages HTMX for dynamic content updates without full page reloads, making interactions smooth and fast.
 *   **Responsive Design (with Bootstrap):** Adapts to various screen sizes, ensuring a consistent experience on desktops, tablets, and mobile devices.
 *   **Easy Backend Integration:** Designed with Flask integration in mind, but adaptable to other Python backend frameworks.
@@ -111,7 +113,7 @@ To integrate this chatbot frontend with a Flask backend:
     ```bash
     python app.py
     ```
-    Then open your browser to `http://127.0.0.1:5000/`.
+    Then open your browser to `http://127.0.0.1:9000/`.
 
 ## Contributing
 
