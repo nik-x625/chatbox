@@ -2,6 +2,10 @@
 
 A simple, interactive chatbot interface built with HTML, HTMX, and Bootstrap. This frontend is designed to be easily integrated with a Flask backend, providing a responsive and modern user experience.
 
+![image](https://github.com/user-attachments/assets/9b458325-57b6-4ecd-8c5b-176a4baeb224)
+
+
+
 ## Features
 
 *   **Interactive Chat Interface:** Clean and user-friendly chat UI.
