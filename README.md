@@ -4,9 +4,6 @@ A simple, interactive chatbot/chatbox interface built with HTML, HTMX, and Boots
 
 ![image](https://github.com/user-attachments/assets/9b458325-57b6-4ecd-8c5b-176a4baeb224)
 
-![image](https://github.com/user-attachments/assets/9b458325-57b6-4ecd-8c5b-176a4baeb224)
-
-
 
 ## Features
 
